@@ -1,0 +1,25 @@
+id,ward,theft from person,population density,number of unemployed,number of no unqualifications,street Lamp,IMD average score,percent of white population,percentage of the population under 18
+1,Belsize,91,"11,738",273,574,400,11.95,72,20.1
+2,Bloomsbury,"1,412","9,394",306,872,1037,17.2,54.4,14.2
+3,Camden Square,21,"15,273",345,822,494,23.79,59.1,17.2
+4,Camden Town and Primrose Hill,717,"20,251",584,1770,745,24.05,61.6,19.6
+5,Fortune Green,16,"11,347",343,995,464,16.96,63.9,19
+6,Frognal,11,"6,693",177,474,686,7.07,67.3,22.3
+7,Gospel Oak,68,"14,840",445,"1,391",454,23.46,62.2,20.2
+8,Hampstead Town,43,"3,675",162,360,830,7.15,78.1,20
+9,Haverstock,59,"15,982",448,"1,537",452,27.06,56.6,21.2
+10,Highgate (Camden),46,"3,208",319,874,760,18.47,74.1,19.8
+11,Holborn & Covent Garden,"1,131","8,932",403,"1,189",1440,21.09,52.8,14.7
+12,Kentish Town ,71,"25,022",605,2343,694,18.76,66.7,18.28
+13,Kilburn (Camden),130,"18,516",506,"1,850",494,29.27,49.6,20.8
+14,King's Cross,295,"10,762",445,"1,230",524,24.9,44.4,16.9
+15,Regent's Park (Camden),342,"8,833",479,"1,550",507,26.14,47.8,20.1
+16,St Pancras & Somers Town,147,"14,703",533,"1,916",720,32.52,42,22
+17,South Hampstead,91,"14,014",359,876,510,13.27,62.2,18.7
+18,West Hampstead,59,"14,506",353,926,438,16.57,61.9,16.1
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+IMD average score,http://data.london.gov.uk,,,,,,,,
+percent of white population,https://www.ons.gov.uk/,,,,,,,,
+percentage of the population under 18,https://www.ons.gov.uk/,,,,,,,,
